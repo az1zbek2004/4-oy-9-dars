@@ -35,17 +35,17 @@
 
 // ----------3-masala
 // 3. Quyidagi kabi massiv berilganda uning ichidan yoshlarining o'rtachasini topuvchi funksiya yozing
-const students = [
-     { name: 'Alice', age: 22, grades: [85, 90, 92, 88] },
-     { name: 'Bob', age: 20, grades: [78, 85, 80, 88] },
-     { name: 'Charlie', age: 21, grades: [90, 92, 89, 94] },
-   ];
+// const students = [
+//      { name: 'Alice', age: 22, grades: [85, 90, 92, 88] },
+//      { name: 'Bob', age: 20, grades: [78, 85, 80, 88] },
+//      { name: 'Charlie', age: 21, grades: [90, 92, 89, 94] },
+//    ];
 
-   function studentMiddleAge(prm) {
-      return (prm[0].age+prm[1].age+prm[2].age)/prm.length;
-   }
+//    function studentMiddleAge(prm) {
+//       return (prm[0].age+prm[1].age+prm[2].age)/prm.length;
+//    }
 
-   console.log("Middle age of students: "+studentMiddleAge(students));
+//    console.log("Middle age of students: "+studentMiddleAge(students));
 
 
 
